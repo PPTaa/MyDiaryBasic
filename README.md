@@ -20,3 +20,4 @@
 
 두 오브젝트 중 하나가 작아져야하는 상황 -> Resistance priority 쓴다 
 
+![](./capture.png)
