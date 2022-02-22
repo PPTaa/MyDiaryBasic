@@ -37,6 +37,7 @@
 		7C1B29D8276A08990058B1CE /* WriteDiaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteDiaryViewController.swift; sourceTree = "<group>"; };
 		7C1B29DA276A08D30058B1CE /* DiaryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryDetailViewController.swift; sourceTree = "<group>"; };
 		7C3C69C92784595100BF084C /* Diary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary.swift; sourceTree = "<group>"; };
+		7C6585AF27C4F41C006CBF8D /* capture.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = capture.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 		7C1B29B12769FE5A0058B1CE = {
 			isa = PBXGroup;
 			children = (
+				7C6585AF27C4F41C006CBF8D /* capture.PNG */,
 				7C1B29D12769FE780058B1CE /* README.md */,
 				7C1B29BC2769FE5A0058B1CE /* MyDiaryBasic */,
 				7C1B29BB2769FE5A0058B1CE /* Products */,
