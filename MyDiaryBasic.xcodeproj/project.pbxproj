@@ -18,6 +18,7 @@
 		7C1B29D7276A075A0058B1CE /* StarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1B29D6276A075A0058B1CE /* StarCell.swift */; };
 		7C1B29D9276A08990058B1CE /* WriteDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1B29D8276A08990058B1CE /* WriteDiaryViewController.swift */; };
 		7C1B29DB276A08D30058B1CE /* DiaryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1B29DA276A08D30058B1CE /* DiaryDetailViewController.swift */; };
+		7C3C69CA2784595100BF084C /* Diary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3C69C92784595100BF084C /* Diary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		7C1B29D6276A075A0058B1CE /* StarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarCell.swift; sourceTree = "<group>"; };
 		7C1B29D8276A08990058B1CE /* WriteDiaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteDiaryViewController.swift; sourceTree = "<group>"; };
 		7C1B29DA276A08D30058B1CE /* DiaryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryDetailViewController.swift; sourceTree = "<group>"; };
+		7C3C69C92784595100BF084C /* Diary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7C1B29D6276A075A0058B1CE /* StarCell.swift */,
 				7C1B29D8276A08990058B1CE /* WriteDiaryViewController.swift */,
 				7C1B29DA276A08D30058B1CE /* DiaryDetailViewController.swift */,
+				7C3C69C92784595100BF084C /* Diary.swift */,
 			);
 			path = MyDiaryBasic;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				7C1B29D3276A05F70058B1CE /* DiaryCell.swift in Sources */,
 				7C1B29DB276A08D30058B1CE /* DiaryDetailViewController.swift in Sources */,
 				7C1B29C02769FE5A0058B1CE /* SceneDelegate.swift in Sources */,
+				7C3C69CA2784595100BF084C /* Diary.swift in Sources */,
 				7C1B29D5276A06600058B1CE /* StarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
